@@ -1,0 +1,33 @@
+Metadata-Version: 2.0
+Name: ndifflib
+Version: 0.1.0
+Summary: N-way diff library
+Home-page: https://github.com/excitoon/ndifflib
+Author: Vladimir Chebotarev
+Author-email: vladimir.chebotarev@gmail.com
+License: MIT
+Project-URL: Bug Reports, https://github.com/excitoon/ndifflib/issues
+Project-URL: Documentation, https://github.com/excitoon/ndifflib/blob/master/README.md
+Project-URL: Source, https://github.com/excitoon/ndifflib
+Description-Content-Type: UNKNOWN
+Keywords: diff difflib
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Text Processing
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Provides-Extra: dev
+Provides-Extra: test
+
+N-way diff library with interface similar to difflib.
+
+
