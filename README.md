@@ -13,6 +13,8 @@ File 1:
 
 Result:
 
+Search similarities between column 1 in File 2 and column 1 in File 1.
+
 ![image](https://github.com/Jorge36/matches/assets/36677503/75410c72-a8f9-4a74-8cf4-3e9f6cdd1ed7)
 
 
